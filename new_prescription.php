@@ -88,7 +88,7 @@ $medicines = getMedicines($con);
  <?php include './config/site_css_links.php' ?>
 
  <link rel="stylesheet" href="plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css">
- <title>New Prescription - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - New Prescription</title>
 
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">

@@ -9,7 +9,7 @@ $patients = getPatients($con);
 <html lang="en">
 <head>
  <?php include './config/site_css_links.php';?>
- <title>Patient History - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - Patient History</title>
 
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">

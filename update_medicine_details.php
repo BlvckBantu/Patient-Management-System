@@ -49,7 +49,7 @@ $medicines = getMedicines($con, $medicineId);
 <head>
  <?php include './config/site_css_links.php';?>
  <?php include './config/data_tables_css.php';?>
- <title>Update Medicine Details - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - Update Medicine Details</title>
 
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">

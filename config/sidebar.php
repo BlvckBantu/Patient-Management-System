@@ -6,8 +6,8 @@ if(!(isset($_SESSION['user_id']))) {
 ?>
 <aside class="main-sidebar sidebar-dark-primary bg-black elevation-4">
     <a href="./" class="brand-link logo-switch bg-black">
-      <h4 class="brand-image-xl logo-xs mb-0 text-center"><b>CMS</b></h4>
-      <h4 class="brand-image-xl logo-xl mb-0 text-center">Nairobi Hospice <b>PMS</b></h4>
+      <h4 class="brand-image-xl logo-xs mb-0 text-center"><b>P.M.S</b></h4>
+      <h4 class="brand-image-xl logo-xl mb-0 text-center">Nairobi Hospice <b>P.M.S</b></h4>
     </a>
 
     <!-- Sidebar -->

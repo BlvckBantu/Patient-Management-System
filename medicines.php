@@ -54,7 +54,7 @@ try {
 
  
  <?php include './config/data_tables_css.php';?>
- <title>Medicines - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - Medicines</title>
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">
   <!-- Site wrapper -->

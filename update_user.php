@@ -76,7 +76,7 @@ header("Location:congratulation.php?goto_page=users.php&message=$message");
 <head>
  <?php include './config/site_css_links.php';?>
 
- <title>Update User  Details - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - Update User  Details</title>
 
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">

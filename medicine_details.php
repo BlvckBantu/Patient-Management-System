@@ -61,7 +61,7 @@ order by `m`.`id` asc, `md`.`id` asc;";
 <head>
  <?php include './config/site_css_links.php';?>
  <?php include './config/data_tables_css.php';?>
- <title>Medicine Details - Clinic's Patient Management System in PHP</title>
+ <title>Nairobi Hospice - Medicine Details</title>
 
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-fixed layout-navbar-fixed">
